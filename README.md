@@ -240,7 +240,7 @@ make push
 # Full deployment workflow
 make full_deploy
 ```
-![image](https://github.com/user-attachments/assets/80d799fd-5670-4a38-b6be-422fd9fe919c)
+![image](https://github.com/user-attachments/assets/6ae5d485-b98b-4d1d-a983-8cac76c298c9)
 
 
 ## 📡 API Endpoints
