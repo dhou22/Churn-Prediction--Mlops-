@@ -208,6 +208,9 @@ make start-monitoring
 make monitor-system
 ```
 
+![image](https://github.com/user-attachments/assets/0c0f62e7-7e57-403f-9d56-94523b8b525b)
+
+
 - MLflow UI: [http://localhost:5000](http://127.0.0.1:5000/#/experiments)
 - Kibana Dashboard: http://localhost:5601
 
