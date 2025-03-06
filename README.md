@@ -309,25 +309,15 @@ The neural network model is evaluated on several key metrics:
 
 MLflow automatically tracks these metrics across experiments, enabling systematic comparison of model versions.
 
-## 💻 Development Workflow
 
-1. **Create Branch**: Create a new branch for feature development
-2. **Implement Changes**: Make code changes according to project structure
-3. **Run Tests**: Execute `make test` to run unit tests
-4. **Code Quality**: Run `make ci-test` to verify code quality
-5. **Train Model**: Execute `make train-mlflow` to train and log the model
-6. **Evaluate**: Run `make evaluate` to verify model performance
-7. **Submit PR**: Create a pull request for code review
+Here's an improved version of your README section:
 
-## 🔮 Future Enhancements
-
-- **Feature Store**: Implement a dedicated feature store for reusable feature engineering
-- **AutoML Integration**: Add automated model selection and hyperparameter tuning
-- **A/B Testing Framework**: Implement framework for comparing model versions in production
-- **Cloud Deployment**: Deploy pipeline on cloud platforms (AWS/GCP/Azure)
-- **Real-time Monitoring**: Add streaming data processing for real-time predictions
-- **Feedback Loop**: Implement mechanism to capture prediction feedback for model improvement
+---
 
 ## 📜 License
 
-MIT License © 2024 Your Name
+This project is licensed under the **MIT License**.  
+© 2024 **Dhouha Meliane**  
+Email: [dhouhameliane@esprit.tn](mailto:dhouhameliane@esprit.tn)
+
+
