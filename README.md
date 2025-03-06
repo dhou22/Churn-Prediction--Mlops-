@@ -68,7 +68,7 @@ The project is implemented in six distinct phases:
 - Model registry for versioning and deployment management
 - Performance visualization through the MLflow UI
 
-![image](https://github.com/user-attachments/assets/7099489f-f301-4638-b684-6eff17563d9a)
+![image](https://github.com/user-attachments/assets/f21f739c-db1f-4da5-aa94-ffa99750fd4a)
 
 
 ### 4️⃣ API Deployment
@@ -84,7 +84,7 @@ The project is implemented in six distinct phases:
 - Multi-container orchestration with Docker Compose
 - Automated build, run, and push workflow for Docker images
   
-![image](https://github.com/user-attachments/assets/1f146d96-5281-4fd8-83de-54d2f088548b)
+![image](https://github.com/user-attachments/assets/69887992-ca25-46e0-98df-ce7ae895cf12)
 
 
 ### 6️⃣ Monitoring & Observability
@@ -92,7 +92,9 @@ The project is implemented in six distinct phases:
 - Elasticsearch for log aggregation and metric storage
 - Kibana dashboards for visualization and alerting
 - System resource monitoring for deployment health
-# screenshot of elastic search on browser 
+  
+![image](https://github.com/user-attachments/assets/cfb919a0-e4e9-4155-b9f0-fd1f83f91298)
+
 
 ## 🔧 Setup Instructions
 
@@ -136,6 +138,7 @@ make mlflow-registry
 ```
 
 ![image](https://github.com/user-attachments/assets/3c8fe98a-fd10-4592-92e5-3ab36a287b07)
+
  
 ### 5️⃣ API Deployment
 
@@ -146,7 +149,6 @@ make run-api
 # Open Swagger UI documentation
 make open-swagger
 ```
-
 
 The API will be available at: [http://localhost:8080/docs](http://127.0.0.1:8000/docs)
 
@@ -226,7 +228,8 @@ make push
 # Full deployment workflow
 make full_deploy
 ```
-![image](https://github.com/user-attachments/assets/ac97de48-94b7-440e-b948-54421ad39e4a)
+![image](https://github.com/user-attachments/assets/80d799fd-5670-4a38-b6be-422fd9fe919c)
+
 
 ## 📡 API Endpoints
 
