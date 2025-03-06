@@ -214,8 +214,17 @@ make monitor-system
 - MLflow UI: [http://localhost:5000](http://127.0.0.1:5000/#/experiments)
 - Kibana Dashboard: http://localhost:5601
 
-## pie chart of resources moitoring 
+## pie chart of resources monitoring 
   ![image](https://github.com/user-attachments/assets/bc36501b-61c7-4799-90b9-2f07f948386d)
+
+
+## churn prediction dashboard 
+![image](https://github.com/user-attachments/assets/cf9f0340-2f8c-4992-8411-5f5db85facfc)
+
+
+## model metrics dashboard 
+![image](https://github.com/user-attachments/assets/4bc0340f-5af5-428d-a965-0dd1fdb3c789)
+
 
 
 ### 7️⃣ Docker Deployment
