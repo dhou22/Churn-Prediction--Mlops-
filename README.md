@@ -137,9 +137,9 @@ make evaluate
 make mlflow-registry
 ```
 
-![image](https://github.com/user-attachments/assets/3c8fe98a-fd10-4592-92e5-3ab36a287b07)
+![image](https://github.com/user-attachments/assets/6a11444a-4137-4676-9dcb-f7733d1a43cb)
 
- 
+
 ### 5️⃣ API Deployment
 
 ```sh
