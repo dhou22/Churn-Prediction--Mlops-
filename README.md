@@ -150,7 +150,7 @@ make run-api
 make open-swagger
 ```
 
-The API will be available at: [http://localhost:8080/docs](http://127.0.0.1:8000/docs)
+The API will be available at: [[http://localhost:8080/docs](http://127.0.0.1:8000/docs)](http://127.0.0.1:8000/docs)
 
 ### Example Prediction Request
 
