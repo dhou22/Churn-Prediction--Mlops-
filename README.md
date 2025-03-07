@@ -208,7 +208,8 @@ make start-monitoring
 make monitor-system
 ```
 
-![image](https://github.com/user-attachments/assets/0c0f62e7-7e57-403f-9d56-94523b8b525b)
+![image](https://github.com/user-attachments/assets/12ecfa45-0e92-46da-8bbc-b85589df2c46)
+
 
 
 - MLflow UI: [http://localhost:5000](http://127.0.0.1:5000/#/experiments)
