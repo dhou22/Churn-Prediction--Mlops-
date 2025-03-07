@@ -233,6 +233,7 @@ make monitor-system
 # Build and run Docker container
 make build
 make run
+docker run -d -p 8080:8000 --name mlops_project_v3 dhou22/mlops:v2
 
 # Deploy to DockerHub
 make push
